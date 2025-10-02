@@ -112,3 +112,22 @@ body {
   float: left;
   margin-left: 400px;
 }
+
+.footer {
+    display: flex;
+    max-width: 100vw;
+    min-height: 20vh;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 0;
+    align-items: center;
+    height: 20vh;
+    justify-content: space-around;
+}
+
+.kuvastyle {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
