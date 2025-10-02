@@ -113,6 +113,7 @@ body {
   margin-left: 400px;
 }
 
+/* Footerin muokkaus */
 .footer {
     display: flex;
     max-width: 100vw;
@@ -125,6 +126,7 @@ body {
     justify-content: space-around;
 }
 
+/* eka Yle kuvan muokkaus */
 .kuvastyle {
   display: block;
   margin: auto;
